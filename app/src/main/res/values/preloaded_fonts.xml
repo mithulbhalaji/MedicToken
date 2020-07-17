@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/advent_pro_bold</item>
+        <item>@font/alex_brush</item>
+        <item>@font/almendra_bold</item>
+        <item>@font/arima_madurai_extrabold</item>
+        <item>@font/arima_madurai_medium</item>
+        <item>@font/david_libre</item>
+        <item>@font/david_libre_bold</item>
+        <item>@font/david_libre_medium</item>
+        <item>@font/emilys_candy</item>
+        <item>@font/syncopate_bold</item>
+    </array>
+</resources>

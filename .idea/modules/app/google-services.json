@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "840297956762",
+    "firebase_url": "https://medictoken-ff2a2.firebaseio.com",
+    "project_id": "medictoken-ff2a2",
+    "storage_bucket": "medictoken-ff2a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840297956762:android:f915036467f3e77bbd2623",
+        "android_client_info": {
+          "package_name": "com.example.medictoken"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840297956762-065u6dlhdar279uqdhikv4573e0nbqcr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.medictoken",
+            "certificate_hash": "bf21ec9f9ab441dd153ed0288f8095d61d42b4f2"
+          }
+        },
+        {
+          "client_id": "840297956762-qcm88ahq72ovesh9p1iqd7hqokho5d7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIdc9mpfi3DIn90p2hVVg6GLobUy7LbGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840297956762-qcm88ahq72ovesh9p1iqd7hqokho5d7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
